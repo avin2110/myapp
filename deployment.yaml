@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: aawa3635/myapp:v1
+        image: aawa3635/myapp:v2
         ports:
         - containerPort: 80
 ---
